@@ -2,13 +2,14 @@
 
 this is a wip
 
-- 🏫 Status: PhD Student in Informatics - University of California, Irvine
-- 📖 Focus: Conduct & Misconduct in Online Communities
+- 🏫 Status: PhD Student in Informatics at University of California, Irvine
+- 📖 Focus: games, online communities
 
 ### basic stuff
 - 😄 Pronouns: she/her/hers
 - 🏠 Location: Irvine, California
 - 🐈🐈: Alfie & Lucy
+- ❤️: gaming, wikipedia rabbit holes, typical online gremlin stuff
 
 ### contact me
 - LinkedIn: tobybaratta
